@@ -1,0 +1,1 @@
+This project will be my first attempt at creating a webpage. It will be a replication of the google search page. I will update this with a self reflection once I am finished with the project.
